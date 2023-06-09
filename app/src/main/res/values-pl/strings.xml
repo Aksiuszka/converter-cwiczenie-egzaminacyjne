@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textView_conversion">Wybierz konwersje</string>
+    <string name="textView_input">Napisz wartosc</string>
+    <string name="button">Oblicz wartosc</string>
+    <string name="statementTitle">Nie ten numer</string>
+    <string name="statementMessage">jesu chryste blad!</string>
+    <string name="settings">Settingsy</string>
+    <string name="info">Info</string>
+    <string name="exit">Exit pa</string>
+    <string name="textView_info">Jestem sobie testowym stringiem i nie wiem co tutaj robię.</string>
+    <string name="textView_heading">Nocny widok</string>
+</resources>

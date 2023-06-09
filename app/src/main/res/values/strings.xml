@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textView_conversion">Select Conversion</string>
+    <string name="textView_input">Enter value:</string>
+    <string name="button">COUNT VALUE</string>
+    <string name="statementTitle">Incorrect Number</string>
+    <string name="statementMessage">You inserted incorrect number</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="exit">Exit</string>
+    <string name="textView_info">Jestem sobie testowym stringiem i nie wiem co tutaj robię.</string>
+    <string name="textView_heading">Night view</string>
+    <string name="textView_sub">night view theme</string>
+    <string-array name="conversion" translatable="false">
+        <item>m na kmm</item>
+        <item>km na m</item>
+        <item>m na cm</item>
+
+        <item>cm na m</item>
+
+        <item>km na cm</item>
+
+        <item>cm na km</item>
+
+    </string-array>
+</resources>
